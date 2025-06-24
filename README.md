@@ -23,3 +23,26 @@ Le modèle est optimisé pour fonctionner avec K=le nobmre de voisin, après une
 - Calcul des distances entre les points
 - Prédiction de la classe des points de test
 - Sauvegarde des prédictions au format CSV
+
+## Installation
+
+1. Assurez-vous d'avoir **Python 3** installé.
+2. Installez les dépendances requises avec la commande suivante :
+   ```bash
+   pip install numpy pandas
+   ```
+3. Placez vos fichiers `train.csv` et `test.csv` dans le répertoire du projet.
+
+## Utilisation
+
+Exécutez le script **KNN (4).py** avec la commande suivante :
+
+```bash
+python Code_python_KNN.py
+```
+
+Les prédictions seront enregistrées dans un fichier **fichier.csv**.
+
+## Licence
+
+Projet réalisé dans le cadre d'un challenge Kaggle.
