@@ -35,7 +35,7 @@ Le modèle est optimisé pour fonctionner avec K=le nobmre de voisin, après une
 
 ## Utilisation
 
-Exécutez le script **KNN (4).py** avec la commande suivante :
+Exécutez le script **Code_python_KNN.py** avec la commande suivante :
 
 ```bash
 python Code_python_KNN.py
